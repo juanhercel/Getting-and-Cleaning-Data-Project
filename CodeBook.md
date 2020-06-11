@@ -66,12 +66,13 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 -   tBodyGyroMean
 -   tBodyGyroJerkMean
 
-Source Data and More Information
+Source data and more information
 --------------------------------
 
 Human Activity Recognition Using Smartphones Data Set, Data + Description can be found here [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-### About the script for analysis run\_analysis.R
+About the script for analysis run\_analysis.R
+---------------------------------------------
 
 The script called [run\_analysis.R](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R) does the following:
 
@@ -89,5 +90,6 @@ The additional management for obtain tidy data into script `run_analysis.R`:
 -   Download compressed raw data
 -   Unzip raw data
 -   Set the working directory
+-   For export tidydata in .txt a script additional created called "`for_submmit_tidydata.R`" into the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject).
 
 See [run\_analysis.R](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R) for more details.
