@@ -1,0 +1,701 @@
+[0m[0K]0;:/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean[0K
+data - Coursera/Proyecto_GaC[0m[0K[1A[13G[?25h[?25l
+
+$[0K[3G[?25h[?25l[2A[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0K
+[0m$[0K
+[0K[1A[3G[?25h[?25l$ g[0K
+[0K[1A[4G[?25h[?25l$ gi[0K
+[0K[1A[5G[?25h[?25l$ git[0K
+[0K[1A[6G[?25h[7G[?25l$ git r[0K
+[0K[1A[8G[?25h[?25l$ git re[0K
+[0K[1A[9G[?25h[?25l$ git rem[0K
+[0K[1A[10G[?25h[?25l$ git remo[0K
+[0K[1A[11G[?25h[?25l$ git remot[0K
+[0K[1A[12G[?25h[?25l$ git remote[0K
+[0K[1A[13G[?25h[14G[?25l$ git remote a[0K
+[0K[1A[15G[?25h[?25l$ git remote ad[0K
+[0K[1A[16G[?25h[?25l$ git remote add[0K
+[0K[1A[17G[?25h[18G[?25l$ git remote add o[0K
+[0K[1A[19G[?25h[?25l$ git remote add or[0K
+[0K[1A[20G[?25h[?25l$ git remote add ori[0K
+[0K[1A[21G[?25h[?25l$ git remote add orig[0K
+[0K[1A[22G[?25h[?25l$ git remote add origi[0K
+[0K[1A[23G[?25h[?25l$ git remote add origin[0K
+[0K[1A[24G[?25h[25G[?25l$ git remote add origin https://github.com/juanhercel/Getting-and-Cleaning-Data-Project.git[0K
+[0K[1A[92G[?25h[?25l
+[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0m[0K
+]0;:/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0m[0K
+$[0K[3G[?25h[?25l$ exit[0K[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ exit[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add origin https://github.com/juanhercel/Getting-and-Cleaning-Data-Project.git[0K[3G[?25h[92G[?25l
+[0K[?25hfatal: not a git repository (or any of the parent directories): .git[0K[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0m[0K[1G[?25h[?25l
+$[0K[3G[?25h[?25l$ echo "# Getting-and-Cleaning-Data-Project" >> README.md[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0m[0K
+$[0K[3G[?25h[?25l$ git init[0K[?25h[?25l
+[0K[?25hInitialized empty Git repository in E:/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC/.git/[0K[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git add README.md[0K[3G[?25h[20G[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in README.md.[0K[?25l
+The file will have its original line endings in your working directory[0K
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "first commit"[0K[?25h[?25l
+[0K[?25h[master (root-commit) f63bc53] first commit[0K[?25l
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0m[0K[1A[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git remote add origin https://github.com/juanhercel/Getting-and-Cleaning-Data-Project.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25h[?25l[23A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+                                      [0;32muser@PANTRO [0;35m [0;33m/e/D[0Ko
+cumentos/04. CURSOS/Getting and clean data - Coursera/P[0Kr
+oyecto_GaC[0m[0K
+            $ echo "# Getting-and-Cleaning-Data-Project[0K"
+ >> README.md[0K
+[0K
+[0K
+[0K
+                [0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/G[0Ke
+tting and clean data - Coursera/Proyecto_GaC[0m[0K
+                                              $ git ini[0Kt
+[0K
+[0K
+                    Initialized empty Git repository in[0K
+E:/Documentos/04. CURSOS/Getting and clean data - Cours[0Ke
+ra/Proyecto_GaC/.git/[0K
+[0K
+[0K
+                              [0;32muser@PANTRO [0;35m [0;33m/e/Documento[0Ks
+/04. CURSOS/Getting and clean data - Coursera/Proyecto_[0KG
+aC[0;36m (master)[0m[0K
+    $ git add README.md[0K
+[0K
+                                  warning: LF will be r[0Ke
+placed by CRLF in README.md.[0K
+The file will have its original line endings in your wo[0Kr
+king directory[0K
+[0K
+[0K
+                              [0;32muser@PANTRO [0;35m [0;33m/e/Documento[0Ks
+/04. CURSOS/Getting and clean data - Coursera/Proyecto_[0KG
+aC[0;36m (master)[0m[0K
+    $ git commit -m "first commit"[0K
+[0K
+                                  [master (root-commit)[0K
+f63bc53] first commit[0K
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K
+[0K
+                              [0;32muser@PANTRO [0;35m [0;33m/e/Documento[0Ks
+/04. CURSOS/Getting and clean data - Coursera/Proyecto_[0KG
+aC[0;36m (master)[0K
+[0m$ git remote add origin https://github.com/juanhercel/G[0Ke
+tting-and-Cleaning-Data-Project.git[0K
+[0K
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean[0K
+data - Coursera/Proyecto_GaC[0;36m (master)[0K
+[0m$ git push -u origin master[0K
+[0K[?25hLogon failed, use ctrl+c to cancel basic credential pro[0Km[?25l
+pt.[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or [0Kd[?25l
+irectory[0K
+[0K[?25hUsername for 'https://github.com':[0K[36G[?25l[28AUsername for 'https://github.com':[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[36G[?25h[?25lUsername for 'https://github.com': j[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[37G[?25h[?25lUsername for 'https://github.com': juan[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[40G[?25h[?25lUsername for 'https://github.com': juanh[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[41G[?25h[?25lUsername for 'https://github.com': juanhe[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[42G[?25h[?25lUsername for 'https://github.com': juanher[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[43G[?25h[?25lUsername for 'https://github.com': juanherc[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[44G[?25h[?25lUsername for 'https://github.com': juanherce[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[45G[?25h[?25lUsername for 'https://github.com': juanhercel[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[14A[46G[?25h[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[12A[?25hPassword for 'https://juanhercel@github.com':[0K[?25l
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[12A[47G[?25h[?25l
+[?25h[?25lremote: Invalid username or password.[0K
+fatal: Authentication failed for 'https://github.com/juanhercel/Getting-and-Cleaning-Data-Project.[0Kg
+it/'[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[11A[?25h[?25l
+
+
+[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[6A[3G[?25h[?25l$ git push -u origin master[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[6A[28G[?25h[?25l
+[?25hEnumerating objects: 3, done.[0K[?25l
+Counting objects: 100% (3/3), done.[0K
+Writing objects: 100% (3/3), 248 bytes | 124.00 KiB/s, done.[0K
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
+[0K
+[0K[1A[?25hTo https://github.com/juanhercel/Getting-and-Cleaning-Data-Project.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean data - Coursera/Proyecto_GaC[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[14A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+                           fatal: Authentication failed[0K
+for 'https://github.com/juanhercel/Getting-and-Cleaning[0K-
+Data-Project.git/'[0K
+[0K
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean[0K
+data - Coursera/Proyecto_GaC[0;36m (master)[0K
+[0m$ git push -u origin master[0K
+Enumerating objects: 3, done.[0K
+Counting objects: 100% (3/3), done.[0K
+Writing objects: 100% (3/3), 248 bytes | 124.00 KiB/s, [0Kd
+one.[0K
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
+To https://github.com/juanhercel/Getting-and-Cleaning-D[0Ka
+ta-Project.git[0K
+ * [new branch]      master -> master[0K
+Branch 'master' set up to track remote branch 'master' [0Kf
+rom 'origin'.[0K
+[0K
+[0;32muser@PANTRO [0;35m [0;33m/e/Documentos/04. CURSOS/Getting and clean[0K
+data - Coursera/Proyecto_GaC[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l[22A$[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[3G[?25h[?25l$ g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[4G[?25h[?25l$ gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[5G[?25h[?25l$ git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[6G[?25h[7G[?25l$ git p[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[8G[?25h[?25l$ git pu[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[9G[?25h[?25l$ git pus[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[10G[?25h[?25l$ git pusj[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[11G[?25h[12G[11G[?25l$ git pus[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[10G[?25h[?25l$ git push[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[11G[?25h[12G[11G[?25l$ git pus[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[10G[?25h[?25l$ git pu[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[9G[?25h[?25l$ git p[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[8G[?25h[?25l$ git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[7G[?25h[6G[?25l$ gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[5G[?25h[?25l$ g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[4G[?25h[?25l$[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[3G[?25h[?25l$ g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[4G[?25h[?25l$ gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[5G[?25h[?25l$ git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[6G[?25h[7G[?25l$ git a[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[8G[?25h[?25l$ git ad[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[9G[?25h[?25l$ git add[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[10G[?25h[11G[?25l$ git add l[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[12G[?25h[?25l$ git add[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[11G[?25h[?25l$ git add .[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[13A[12G[?25h[?25l
+[?25h
