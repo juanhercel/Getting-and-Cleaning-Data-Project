@@ -12,8 +12,7 @@ The purpose of this project is collect, work with, and clean a data set. The goa
 
 In this project you will find
 
-1. Two tidy data set in the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject) called :
-  - "tidy_data_project.csv":  tidy data that can be used for later analysis
+1. A tidy data set in the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject) called :
   - "new_tidy_data_project.csv":  independent tidy data set with the average of each variable for each activity and each subject.
 2. A link to a my Github repository with your script for performing the analysis, repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project)
 3. A code book called [CodeBook.md](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md) in my repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project)
