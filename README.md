@@ -4,19 +4,20 @@
 
 This is a brief summary of the additional analyzes related to the datasets to obtain a tidy data.
 
-### Purpose and Goal of the Project
+### Purpose and goal of the project
 
 The purpose of this project is collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
 
-### Information Project
+### Information project
 
 In this project you will find
 
-1. A tidy data set in the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject) called :
+1. A tidy data set into the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject) called :
   - "new_tidy_data_project.csv":  independent tidy data set with the average of each variable for each activity and each subject.
 2. A link to a my Github repository with your script for performing the analysis, repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project)
 3. A code book called [CodeBook.md](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md) in my repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project)
-4. A Analysis R Script called  [run_analysis.R](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R) in my repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project) 
+4. A analysis R Script called  [run_analysis.R](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R) in my repository called [Getting and Cleaning Data Project](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project) 
+5. - For export tidydata in .txt a script additional created called "`for_submmit_tidydata.R`" into the folder ["./dataProject"](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/tree/master/dataProject).
 
 ### About the script for analysis
 
@@ -37,7 +38,7 @@ The script called [run_analysis.R](https://github.com/juanhercel/Getting-and-Cle
 
 Run in R the script [run_analysis.R](https://github.com/juanhercel/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)
 
-### Source Data and Reference 
+### Source data and reference 
 
 Human Activity Recognition Using Smartphones Data Set, Data + Description can be found here [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
